@@ -1,7 +1,21 @@
 /*selector{
     property:value;
 }*/
+body{
+    background: 
+    url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/codepen.png) bottom center no-repeat,
+    url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/confectionary.png) repeat; 
+ }
+
 
  h2{
-     color:red;
+     color:#4F2C73;
+     text-align: center;
+     border:5px solid #9177AC;
  }    
+
+ li{
+     list-style: none;
+     display: inline-block;
+
+ }
